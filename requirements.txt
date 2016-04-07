@@ -1,0 +1,2 @@
+mongo-connector==2.3
+elastic2-doc-manager==0.1.0
